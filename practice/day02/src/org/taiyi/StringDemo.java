@@ -1,4 +1,4 @@
-package day02;
+package org.taiyi;
 
 /**
  * @description:字符串的简单使用

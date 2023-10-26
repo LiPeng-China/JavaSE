@@ -1,4 +1,4 @@
-package day03;
+package org.taiyi;
 
 /**
  * @description: 条件运算符

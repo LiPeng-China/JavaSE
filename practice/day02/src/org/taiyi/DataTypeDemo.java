@@ -1,4 +1,4 @@
-package day02;
+package org.taiyi;
 
 /**
  * @description: 基本数据类型Demo

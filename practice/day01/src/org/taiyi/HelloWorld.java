@@ -1,4 +1,4 @@
-package day01;
+package org.taiyi;
 
 // public 类的修饰符
 // class 类的关键字

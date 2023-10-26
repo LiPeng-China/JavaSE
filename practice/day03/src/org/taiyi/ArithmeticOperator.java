@@ -1,4 +1,4 @@
-package day03;
+package org.taiyi;
 
 /**
  * @description: 算数运算符
