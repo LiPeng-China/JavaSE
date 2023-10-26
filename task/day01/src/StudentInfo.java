@@ -1,5 +1,3 @@
-package day01;
-
 public class StudentInfo {
     public static void main(String[] args) {
         String name = "sy";

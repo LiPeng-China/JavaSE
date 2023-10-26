@@ -1,4 +1,4 @@
-package day02;
+package org.taiyi;
 
 /**
  * @description: 这是一个学生类
