@@ -1,4 +1,4 @@
-package org.taiyi.day02;
+package day02;
 
 /**
  * @description: char 字符码表

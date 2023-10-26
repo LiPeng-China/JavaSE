@@ -1,4 +1,4 @@
-package org.taiyi.day02;
+package day02;
 
 /**
  * @description: 这是一个学生类
@@ -14,7 +14,7 @@ public class Student {
         int age = 18;
         System.out.println(age);
         // 学生身高
-        double height = 180.2;
+        int height = 180;
         System.out.println(height);
         // 学生性别
         String gender = "男";
@@ -23,7 +23,7 @@ public class Student {
         String address = "上海";
         System.out.println(address);
         // 体重
-        double weight = 60.5;
+        int weight = 60;
         System.out.println(weight);
     }
 }

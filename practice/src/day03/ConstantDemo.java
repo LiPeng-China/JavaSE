@@ -1,4 +1,4 @@
-package org.taiyi.day03;
+package day03;
 
 /**
  * @description: 常量
