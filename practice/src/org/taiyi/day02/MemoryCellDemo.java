@@ -1,4 +1,4 @@
-package day02;
+package org.taiyi.day02;
 
 public class MemoryCellDemo {
     public static void main(String[] args) {

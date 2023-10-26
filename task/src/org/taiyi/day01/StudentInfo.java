@@ -1,4 +1,4 @@
-package day01;
+package org.taiyi.day01;
 
 public class StudentInfo {
     public static void main(String[] args) {
