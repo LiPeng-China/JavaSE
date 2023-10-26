@@ -14,7 +14,7 @@ public class Student {
         int age = 18;
         System.out.println(age);
         // 学生身高
-        int height = 180;
+        double height = 180;
         System.out.println(height);
         // 学生性别
         String gender = "男";
@@ -23,7 +23,7 @@ public class Student {
         String address = "上海";
         System.out.println(address);
         // 体重
-        int weight = 60;
+        double weight = 60.5;
         System.out.println(weight);
     }
 }
