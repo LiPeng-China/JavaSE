@@ -9,6 +9,6 @@ public class JudgeStudentAge {
     public static void main(String[] args) {
         int mingAge = 18;
         int gangAge = 17;
-        System.out.println(mingAge == gangAge ? true : false);
+        System.out.println(mingAge == gangAge);
     }
 }
