@@ -1,7 +1,5 @@
 package org.taiyi.worke4;
 
-import java.util.Arrays;
-
 /**
  * @description: 测试类
  * @author: taiyi
@@ -20,9 +18,9 @@ public class Test {
 
         // 根据学号查找学生信息
         Student studentBySn = classDemo.getStudentBySn(1);
-        if (null != studentBySn){
+        if (null != studentBySn) {
             studentBySn.printStudent();
-        }else {
+        } else {
             System.out.println("查无此生");
         }
 
